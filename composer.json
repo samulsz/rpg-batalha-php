@@ -1,10 +1,10 @@
 {
-  "name": "jean/batalha-rpg",
-  "description": "Simulador de batalhas - RPG",
+  "name": "samuel/batalha",
+  "description": "Simulador de batalha",
   "type": "project",
   "authors": [
     {
-      "name": "Jean Ribeiro Penha",
+      "name": "Samuel Araujo Brota",
       "email": "jean.penha@alunos.unis.edu.br"
     }
   ],
